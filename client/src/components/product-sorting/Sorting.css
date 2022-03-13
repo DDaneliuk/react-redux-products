@@ -1,0 +1,11 @@
+.sorting{
+    display: flex;
+    margin: 15px 0;
+    align-items: center;
+}
+.sorting select{
+    padding: 5px;
+}
+.sort-head{
+    margin: 0 10px 0 0;
+}

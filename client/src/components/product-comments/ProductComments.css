@@ -1,0 +1,8 @@
+.form-comment{
+    margin: 20px 0;
+}
+.form-comment textarea{
+    width: 100%;
+    padding: 20px;
+    margin: 0 0 15px;
+}

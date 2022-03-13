@@ -1,0 +1,20 @@
+.productList{
+  width: 800px;
+  margin: 0 auto;
+}
+.empty-block{
+  text-align: center;
+  margin: 70px auto 0;
+  width: fit-content;
+}
+.empty-block h2{
+  margin: 0;
+}
+.empty-block p{
+  margin: 5px 0;
+  font-weight: bold;
+}
+.create-btn{
+  margin: 30px auto;
+  display: block;
+}

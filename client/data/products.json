@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1647205443519,
+      "name": "A",
+      "count": "1",
+      "size": {
+        "width": "1",
+        "height": "1"
+      },
+      "weight": "1",
+      "comments": []
+    },
+    {
+      "id": 1647205452043,
+      "name": "B",
+      "count": "1",
+      "size": {
+        "width": "1",
+        "height": "1"
+      },
+      "weight": "1",
+      "comments": []
+    },
+    {
+      "id": 1647205465369,
+      "name": "D",
+      "count": "2",
+      "size": {
+        "width": "2",
+        "height": "2"
+      },
+      "weight": "2",
+      "comments": []
+    }
+  ]
+}
